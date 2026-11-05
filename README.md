@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=170&section=header&text=Murali%20Veesambattu&fontSize=40&fontColor=ffffff" width="100%" alt="Murali Veesambattu banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=170&section=header" width="100%" alt="Murali Veesambattu banner"/>
 
+<h1>Hi 👋, I'm Murali Veesambattu</h1>
 <h3>Senior Architect @ IBM · Full-Stack · IAM &amp; SSO</h3>
 
 <a href="https://git.io/typing-svg">
@@ -79,8 +80,6 @@ I'm a **Senior Architect at IBM** with **13+ years** of full-stack engineering e
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=muraliveesambattu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-
 
 </div>
 
